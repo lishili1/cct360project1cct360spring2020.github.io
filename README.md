@@ -1,2 +1,2 @@
-# cct360project1cct360spring2020.github.io
+# cct360project1
 this is project one from cct360
